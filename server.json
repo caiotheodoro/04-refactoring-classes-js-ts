@@ -19,9 +19,9 @@
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
       "name": "Moda",
-      "price": "10.00",
+      "price": "11.00",
       "description": "eu ae",
-      "available": true,
+      "available": false,
       "id": 5
     }
   ]
